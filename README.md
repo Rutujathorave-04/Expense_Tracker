@@ -37,13 +37,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Priyanshu9898/Expense-Tracker-App
+  git clone https://github.com/Rutujathorave-04/Expense_Tracker.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Expense-Tracker-App
+  cd Expense_Tracker
 ```
 
 Go to the frontend directory and Install dependencies
@@ -82,7 +82,7 @@ Start the backend server
 
 To run this project, you will need to add the following environment variables to your .env file in backend folder
 
-create config folder and add config.env file in it and all all env variables there.
+create config folder and add config.env file in it and all env variables there.
 
 `MONGO_URL` : Your MongoDB Connection String
 
